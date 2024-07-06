@@ -1,0 +1,14 @@
+node_modules/
+.env
+*.sqlite
+*.sqlite3
+uploads/
+*.log
+logs/
+jest.config.js
+.sequelizerc
+.prettierrc.js
+.eslintrc.js
+nodemon.json
+.vscode/
+tsconfig.json
