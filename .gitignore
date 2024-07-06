@@ -12,3 +12,4 @@ jest.config.js
 nodemon.json
 .vscode/
 tsconfig.json
+.editorconfig
